@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Taxi App</string>
+    <string name="kilometers_travelled">Journey Length (In KM)</string>
+    <string name="minutes_taken">Journey Length (In Minutes)</string>
+    <string name="passenger_amount">Number of Passengers</string>
+    <string name="luggage_amount">Pieces of Luggage</string>
+    <string name="calc_header">Fare Calculator</string>
+    <string name="send_data">Calculate</string>
+    <string name="result_header">Fare Invoice</string>
+    <string name="distance_tag">Kilometers Travelled</string>
+    <string name="time_tag">Minutes Taken</string>
+    <string name="passenger_tag">Passenger Amount</string>
+    <string name="luggage_tag">Luggage Pieces</string>
+    <string name="gross_tag">Gross Fare</string>
+    <string name="tax_tag">Tax Rate</string>
+    <string name="fare_tag">Total Fare</string>
+</resources>
